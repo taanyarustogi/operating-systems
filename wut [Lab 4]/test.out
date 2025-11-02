@@ -1,0 +1,6 @@
+Check: 0 (wrong main thread ID, expected: 0)
+Check: 1 (wrong first thread ID, expected: 1)
+Check: 2 (wrong second thread ID, expected: 2)
+Check: 0 (cancel should be successful, expected: 0)
+Check: 0 (yield should be successful, expected: 0)
+Check: 2 (should be second thread ID, expected: 2)
