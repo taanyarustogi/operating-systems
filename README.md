@@ -1,3 +1,3 @@
-# 2023 Fall ECE 344 Student Repository
+# Operating Systems
 
-This repository contains the lab solutions for a student.
+This repository contains labs from the operating systems course. It includes working with the implementation of operating systems concepts such as memory management, file systems for hard drive and SSD, process management and virtualization.
